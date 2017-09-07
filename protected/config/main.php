@@ -7,7 +7,7 @@
 // CWebApplication properties can be configured here.
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
-	'name'=>'Curso de GIT Rama 1',
+	'name'=>'Curso de GIT - MERGE Rama 1 & 2',
 
 	// preloading 'log' component
 	'preload'=>array('log'),
